@@ -1,0 +1,56 @@
+date,slope,width,centring,stance,score,note
+2001-10,flatten,maintain,maintain,ease,-1,Reduced appreciation path amid global slowdown
+2002-04,maintain,maintain,maintain,neutral,0,Recovery path maintained
+2002-10,maintain,maintain,maintain,neutral,0,Cautious outlook
+2003-04,flatten,maintain,recentre_down,ease,-2,"SARS impact — zero appreciation, recentre down"
+2003-10,maintain,maintain,maintain,neutral,0,Recovery underway
+2004-04,steepen,maintain,maintain,tighten,1,Growth momentum — modest appreciation
+2004-10,maintain,maintain,maintain,neutral,0,Steady policy
+2005-04,maintain,maintain,maintain,neutral,0,Stable
+2005-10,steepen,widen,maintain,tighten,2,"Stronger appreciation, wider band"
+2006-04,maintain,maintain,maintain,neutral,0,Steady
+2006-10,maintain,maintain,maintain,neutral,0,Steady
+2007-04,steepen,maintain,maintain,tighten,1,Pre-GFC tightening
+2007-10,maintain,maintain,maintain,neutral,0,Hold
+2008-04,steepen,maintain,recentre_up,tighten,2,Inflation surge — steepen and recentre up
+2008-10,flatten,maintain,maintain,ease,-1,GFC — reduce appreciation
+2009-04,flatten,maintain,recentre_down,ease,-2,"GFC bottom — zero appreciation, recentre down"
+2009-10,maintain,maintain,maintain,neutral,0,Hold at zero
+2010-04,steepen,maintain,recentre_up,tighten,2,Recovery — steepen and recentre up
+2010-10,steepen,maintain,maintain,tighten,1,Further tightening
+2011-04,steepen,maintain,maintain,tighten,1,Inflation concerns
+2011-10,maintain,maintain,maintain,neutral,0,Euro crisis — hold
+2012-04,maintain,maintain,maintain,neutral,0,Steady
+2012-10,maintain,maintain,maintain,neutral,0,Steady
+2013-04,maintain,maintain,maintain,neutral,0,Steady
+2013-10,maintain,maintain,maintain,neutral,0,Steady
+2014-04,maintain,maintain,maintain,neutral,0,Steady
+2014-10,maintain,maintain,maintain,neutral,0,Steady
+2015-04,flatten,maintain,maintain,ease,-1,Oil price collapse — modest easing
+2015-10,flatten,maintain,maintain,ease,-1,Further easing — China slowdown
+2016-04,flatten,maintain,recentre_down,ease,-2,Zero appreciation — deflation risk
+2016-10,maintain,maintain,maintain,neutral,0,Hold at zero
+2017-04,maintain,maintain,maintain,neutral,0,Steady
+2017-10,maintain,maintain,maintain,neutral,0,Steady
+2018-04,steepen,maintain,maintain,tighten,1,Growth pickup — modest appreciation
+2018-10,maintain,maintain,maintain,neutral,0,Hold
+2019-04,flatten,maintain,maintain,ease,-1,Trade war — ease slightly
+2019-10,maintain,maintain,maintain,neutral,0,Steady
+2020-03,flatten,maintain,recentre_down,ease,-2,"COVID — zero appreciation, recentre down (off-cycle)"
+2020-10,maintain,maintain,maintain,neutral,0,Hold at zero
+2021-04,maintain,maintain,maintain,neutral,0,Recovery but hold
+2021-10,steepen,maintain,maintain,tighten,1,First tightening — start of cycle
+2022-01,steepen,maintain,maintain,tighten,1,Off-cycle tightening — inflation surge
+2022-04,steepen,maintain,recentre_up,tighten,2,Steepen + recentre up — aggressive tightening
+2022-07,steepen,maintain,recentre_up,tighten,2,Off-cycle — further steepen + recentre
+2022-10,maintain,maintain,recentre_up,tighten,1,Fifth tightening — recentre up only
+2023-04,maintain,maintain,maintain,neutral,0,Pause — inflation moderating
+2023-10,maintain,maintain,maintain,neutral,0,Hold — sufficiently tight
+2024-01,maintain,maintain,maintain,neutral,0,Hold
+2024-04,maintain,maintain,maintain,neutral,0,Hold
+2024-07,maintain,maintain,maintain,neutral,0,Hold — core inflation at 2.6%
+2024-10,maintain,maintain,maintain,neutral,0,Sixth consecutive pause
+2025-01,flatten,maintain,maintain,ease,-1,First easing — reduce slope slightly
+2025-04,flatten,maintain,maintain,ease,-1,Second easing
+2025-10,maintain,maintain,maintain,neutral,0,Hold — prevailing rate maintained
+2026-01,maintain,maintain,maintain,neutral,0,Hold — inflation outlook raised to 1-2%
