@@ -78,7 +78,7 @@ MAS publishes a Monetary Policy Statement (MPS) twice a year (April and October)
 git clone https://github.com/anujagokhale1604/mas-policy-dataset
 cd mas-policy-dataset
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run mas_app.py
 ```
 
 ---
